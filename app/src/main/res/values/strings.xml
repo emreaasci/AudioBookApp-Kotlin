@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Book App Kotlin</string>
+    <string name="new_user_singup">Not Have Account? <b>SingUp</b></string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="channel_name">emre</string>
+    <string name="channel_description">asci</string>
+</resources>

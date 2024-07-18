@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="purple_500">#FF000000</color>
+    <color name="gray01">#c5c5c5</color>
+    <color name="gray02">#777777</color>
+    <color name="gray03">#EDEDED</color>
+    <color name="gray04">#FBFBFB</color>
+    <color name="background_color">#F5F5F5</color>
+    <color name="brown01">#FBFBFB</color>
+    <color name="brown02">#A67B5B</color>
+    <color name="brown03">#ECB176</color>
+    <color name="brown04">#FED8B1</color>
+
+        <color name="backgroundColor">#121212</color>
+        <color name="primaryTextColor">#FFFFFF</color>
+        <color name="secondaryTextColor">#1DB954</color>
+        <color name="hintTextColor">#B3B3B3</color>
+        <color name="editTextBackgroundColor">#333333</color>
+        <color name="editTextBorderColor">#555555</color>
+        <color name="buttonBackgroundColor">#1DB954</color>
+        <color name="buttonBackgroundPressedColor">#1AA34A</color>
+        <color name="buttonTextColor">#FFFFFF</color>
+
+</resources>
